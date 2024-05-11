@@ -25,4 +25,3 @@ done
 for file in "${files[@]}"; do
     echo "- [$file](https://github.com/ephraimm-zm/alu-scripting/blob/main/regular_expressions/$file)" >> README.md
 done
-
